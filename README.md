@@ -1,5 +1,9 @@
 https://frases-braking-bad-toti.netlify.app/
 
+![breakingbad](https://user-images.githubusercontent.com/60388264/101827288-e1466500-3b0e-11eb-9078-04650bf3ffd3.png)
+
+![breakingbad1](https://user-images.githubusercontent.com/60388264/101827294-e3a8bf00-3b0e-11eb-8d58-5ec6dc0ada01.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
